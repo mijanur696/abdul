@@ -1,0 +1,23 @@
+.incharge{
+    background-color:#089de3;
+    text-align: center;
+    color: white;
+}
+.incharge > img{
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+}
+.incharge >p{
+    padding: 20px;
+    text-align: justify;
+}
+.myclass{
+    color: #fff;
+}
+#myid{
+    text-align: center;
+    padding-top: 13px;
+}
